@@ -1,0 +1,7 @@
+C:\Users\admin\Desktop\MainAndCar\bin\Debug\MainAndCar.exe.config
+C:\Users\admin\Desktop\MainAndCar\bin\Debug\MainAndCar.exe
+C:\Users\admin\Desktop\MainAndCar\bin\Debug\MainAndCar.pdb
+C:\Users\admin\Desktop\MainAndCar\obj\Debug\MainAndCar.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\MainAndCar\obj\Debug\MainAndCar.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\MainAndCar\obj\Debug\MainAndCar.exe
+C:\Users\admin\Desktop\MainAndCar\obj\Debug\MainAndCar.pdb
