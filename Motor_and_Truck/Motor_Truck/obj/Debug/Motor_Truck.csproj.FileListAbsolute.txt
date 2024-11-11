@@ -1,0 +1,7 @@
+C:\Users\Ryzen\Desktop\Motor_and_Truck\Motor_Truck\bin\Debug\Motor_Truck.exe.config
+C:\Users\Ryzen\Desktop\Motor_and_Truck\Motor_Truck\bin\Debug\Motor_Truck.exe
+C:\Users\Ryzen\Desktop\Motor_and_Truck\Motor_Truck\bin\Debug\Motor_Truck.pdb
+C:\Users\Ryzen\Desktop\Motor_and_Truck\Motor_Truck\obj\Debug\Motor_Truck.csproj.AssemblyReference.cache
+C:\Users\Ryzen\Desktop\Motor_and_Truck\Motor_Truck\obj\Debug\Motor_Truck.csproj.CoreCompileInputs.cache
+C:\Users\Ryzen\Desktop\Motor_and_Truck\Motor_Truck\obj\Debug\Motor_Truck.exe
+C:\Users\Ryzen\Desktop\Motor_and_Truck\Motor_Truck\obj\Debug\Motor_Truck.pdb
